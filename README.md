@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 👨‍💻 I’m Florian S
+My Name is Florian and I´m learning the information technology assistant - ITA at an [college](https://bk-tm.de) in Germany
+
 - 👀 I’m interested in actually all kinds if the IT-World
-- 🌱 I’m currently learning information technology assistant - ITA
+- 🌱 I’m currently learning Python, C#, Javascript and MySQL
 - 😄 Pronouns: he/him
 
 <!---
