@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Florian
+### Hi there 👋
+
+- 👨‍💻 I’m Florian S
 - 👀 I’m interested in actually all kinds if the IT-World
 - 🌱 I’m currently learning information technology assistant - ITA
 - 😄 Pronouns: he/him
